@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2024-07-23 204610](https://github.com/user-attachments/assets/1a5cb59f-71e1-42c8-a2c7-d39162330683)# Retinal OCT Images Classification
+# Retinal OCT Images Classification
   This project uses a deep learning model to classify retina OCT (Optical Coherence Tomography) images. The model is built on the basis of a convolutional neural network (CNN) using Keras and TensorFlow libraries
 
 
