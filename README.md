@@ -18,6 +18,8 @@ Visualizing Training Graphs:
 ![Ekran görüntüsü 2024-07-23 203750](https://github.com/user-attachments/assets/2ab09faf-b0b5-4e1d-9338-4ffea23378b6)
 
 Description: Plots graphs showing training and validation accuracy, and loss.
+![2024-07-23 203800](https://github.com/user-attachments/assets/ed90f7de-3d9f-4a87-bc62-718a85f888dd)
+
 Model Outputs and Performance:
 
 Description: Provides model summary, accuracy, and loss graphs to evaluate performance.
